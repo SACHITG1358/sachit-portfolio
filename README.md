@@ -1,2 +1,21 @@
 # sachit-portfolio
-Personal portfolio website showcasing my experience in Java Backend Development, Spring Boot, Enterprise Modernization, Projects, Achievements, and Technical Skills.
+
+Professional portfolio website showcasing:
+
+- Software Engineering Experience
+- Java Backend Development
+- Spring Boot Projects
+- Enterprise Modernization
+- Awards & Achievements
+- Technical Skills
+
+## Tech Stack
+
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript
+
+## Live Website
+
+Coming Soon
